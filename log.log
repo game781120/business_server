@@ -1,0 +1,106 @@
+2024-04-11 18:13:59,429 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:15:51,594 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:15:51,608 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:15:51,608 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:15:51,608 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:15:51,608 - INFO - Config __init__
+2024-04-11 18:15:51,608 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:16:32,398 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:16:32,411 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:16:32,411 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:16:32,411 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:16:32,412 - INFO - Config __init__
+2024-04-11 18:16:32,412 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:16:56,203 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:16:56,215 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:16:56,215 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:16:56,216 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:16:56,216 - INFO - Config __init__
+2024-04-11 18:16:56,216 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:18:02,064 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:18:02,077 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:18:02,077 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:18:02,077 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:18:02,077 - INFO - Config __init__
+2024-04-11 18:18:02,077 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:18:30,202 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:18:30,215 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:18:30,215 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:18:30,215 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:18:30,215 - INFO - Config __init__
+2024-04-11 18:18:30,215 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:19:15,859 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:19:15,872 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:19:15,872 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:19:15,872 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:19:15,872 - INFO - Config __init__
+2024-04-11 18:19:15,872 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:19:46,338 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:19:46,350 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:19:46,351 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:19:46,351 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:19:46,351 - INFO - Config __init__
+2024-04-11 18:19:46,351 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:20:23,127 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:20:23,140 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:20:23,141 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:20:23,141 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:20:23,141 - INFO - Config __init__
+2024-04-11 18:20:23,141 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:21:17,026 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:21:17,039 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:21:17,039 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:21:17,039 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:21:17,039 - INFO - Config __init__
+2024-04-11 18:21:17,039 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:21:45,850 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:21:45,863 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:21:45,863 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:21:45,863 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:21:45,863 - INFO - Config __init__
+2024-04-11 18:21:45,863 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:22:29,051 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:22:29,064 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:22:29,064 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:22:29,064 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:22:29,064 - INFO - Config __init__
+2024-04-11 18:22:29,064 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:22:58,211 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:22:58,223 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:22:58,223 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:22:58,223 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:22:58,224 - INFO - Config __init__
+2024-04-11 18:22:58,224 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:22:59,328 - INFO - main入口进入
+2024-04-11 18:22:59,328 - INFO - elastic_host = 10.0.232.20
+2024-04-11 18:22:59,328 - INFO - elastic_port = 9200
+2024-04-11 18:22:59,328 - INFO - elastic_username = elastic
+2024-04-11 18:22:59,328 - INFO - elastic_password = U6xT2NkcEQ10a
+2024-04-11 18:22:59,328 - INFO - elastic_index = wenshu_20240329
+2024-04-11 18:22:59,328 - INFO - elastic_knn_boost = 0.1
+2024-04-11 18:28:44,782 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 18:28:44,795 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 18:28:44,795 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 18:28:44,795 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 18:28:44,795 - INFO - Config __init__
+2024-04-11 18:28:44,795 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 18:28:45,894 - INFO - main入口进入
+2024-04-11 18:28:45,895 - INFO - elastic_host = 10.0.232.20
+2024-04-11 18:28:45,895 - INFO - elastic_port = 9200
+2024-04-11 18:28:45,895 - INFO - elastic_username = elastic
+2024-04-11 18:28:45,895 - INFO - elastic_password = U6xT2NkcEQ10a
+2024-04-11 18:28:45,895 - INFO - elastic_index = wenshu_20240329
+2024-04-11 18:28:45,895 - INFO - elastic_knn_boost = 0.1
+2024-04-11 19:34:20,647 - INFO - create logger 初始化 /home/ts/yjq/business_server/log.log
+2024-04-11 19:34:20,660 - INFO - AppConfDirPath=/home/ts/yjq/business_server/conf
+2024-04-11 19:34:20,660 - INFO - AppRootPath=/home/ts/yjq/business_server
+2024-04-11 19:34:20,660 - INFO - AppStaticPath=/home/ts/yjq/business_server/static
+2024-04-11 19:34:20,660 - INFO - Config __init__
+2024-04-11 19:34:20,660 - INFO - path =/home/ts/yjq/business_server/static
+2024-04-11 19:34:21,765 - INFO - main入口进入
+2024-04-11 19:34:21,765 - INFO - elastic_host = 10.0.232.20
+2024-04-11 19:34:21,765 - INFO - elastic_port = 9200
+2024-04-11 19:34:21,765 - INFO - elastic_username = elastic
+2024-04-11 19:34:21,765 - INFO - elastic_password = U6xT2NkcEQ10a
+2024-04-11 19:34:21,765 - INFO - elastic_index = wenshu_20240329
+2024-04-11 19:34:21,765 - INFO - elastic_knn_boost = 0.1

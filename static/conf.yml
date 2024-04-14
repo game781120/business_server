@@ -1,0 +1,33 @@
+
+elastic:
+  host: "10.0.12.85"
+  port: 9200
+  knn_boost: 0.1
+  index: "wenshu_20240412"
+  username: "elastic"
+  password: "U6xT2NkcEQ10a"
+
+embeddings:
+  embedding_server: "http://10.0.12.85:7158/api/embedding/v1/embeddings"
+  embedding_name: "bge-large-zh"
+
+mysql:
+  mysqlHost: "10.0.12.85"
+  mysqlPort: 3306
+  mysqlPwd: "thundersoft88"
+  mysqlUser: "root"
+  db_name_001: "wenshu"
+
+
+milvus:
+  host: "10.0.12.85"
+  port: "19530"
+  dbName: "wenshu_20240412"
+
+  collection_location: "location"
+  collection_article: "article"
+  collection_damage: "damage"
+  collection_abstract: "abstract"
+
+  user: "minioadmin"
+  password: "minioadmin"
